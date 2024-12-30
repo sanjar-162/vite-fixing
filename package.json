@@ -1,0 +1,22 @@
+{
+  "name": "volopay-work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/parser": "^7.26.3",
+    "@babel/preset-react": "^7.26.3",
+    "colors": "^1.4.0",
+    "diff": "^7.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-remove-imports": "^1.8.0"
+  }
+}
